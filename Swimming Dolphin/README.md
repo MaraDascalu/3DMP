@@ -1,11 +1,11 @@
-#Swimming dolphin
-##Author
+# Swimming dolphin
+## Author
 Dascălu Mara-Elena
-##Description
+## Description
 At the end of the project, this is going to simulate a dolphin that is swimming. The final product needs to be assembled after the print. This is a scholar project.
-##Updates
--21.04 : I created the f3d file with all the components of the final product
--25.04 : I desingned the case of the dolphin (the upper and the lower parts)
--08.05 : I designed the crank-bar from the interior of the case, the gear with a handle that will animate the whole mechanism and added joints and motion study to demonstrate how the dolphin should move
+## Updates
+- 21.04 : I created the f3d file with all the components of the final product
+- 25.04 : I desingned the case of the dolphin (the upper and the lower parts)
+- 08.05 : I designed the crank-bar from the interior of the case, the gear with a handle that will animate the whole mechanism and added joints and motion study to demonstrate how the dolphin should move
 
 To be continued...

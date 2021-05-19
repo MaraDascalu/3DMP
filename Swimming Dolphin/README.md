@@ -7,5 +7,7 @@ At the end of the project, this is going to simulate a dolphin that is swimming.
 - 21.04 : I created the f3d file with all the components of the final product
 - 25.04 : I desingned the case of the dolphin (the upper and the lower parts)
 - 08.05 : I designed the crank-bar from the interior of the case, the gear with a handle that will animate the whole mechanism and added joints and motion study to demonstrate how the dolphin should move
+- 12.05 : I added the pistons and the waves and tested some joint to simulate the motion
+- 19.05 : I modified the base of the piston so it can have a solid base for the conctact set and added all the joints
 
 To be continued...
